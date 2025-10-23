@@ -5,3 +5,6 @@ git commit -m "Initial commit - Emojiify prototype"
 git branch -M main
 git remote add origin https://github.com/akedechristine/emojiify.git
 git push -u origin main
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main
